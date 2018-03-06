@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DemoVolleyJsonParse</string>
+
+
+    <string name="signin">Sign IN</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_new_password">Create New Password</string>
+    <string name="register">Register</string>
+    <string name="update">Update</string>
+    <string name="password">Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="ok">Ok</string>
+
+
+    <!--
+    ================================================================================================
+    Font-Awesome String
+    ================================================================================================
+    -->
+
+    <string name="fa_user_o">&#xf007;</string>
+    <string name="fa_envelope_o">&#xf0e0;</string>
+    <string name="fa_phone">&#xf095;</string>
+    <string name="fa_lock_o">&#xf023;</string>
+    <string name="fa_home">&#xf015;</string>
+    <string name="fa_rupee">&#xf156;</string>
+    <string name="fa_fire">&#xf06d;</string>
+    <string name="fa_angle_right">&#xf054;</string>
+    <string name="fa_plus_circle">&#xf055;</string>
+    <string name="fa_globe">&#xf0ac;</string>
+    <string name="fa_signout">&#xf08b;</string>
+    <string name="fa_city">&#xf278;</string>
+    <string name="fa_state">&#xf277;</string>
+
+
+</resources>
